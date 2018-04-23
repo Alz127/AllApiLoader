@@ -3,5 +3,5 @@ branches:
 - master
 projects:
   AllApiLoader:
-    path: "https://poggit.pmmp.io/ci/Alz127/AllApiLoader"
+    path: ""    
 ...
